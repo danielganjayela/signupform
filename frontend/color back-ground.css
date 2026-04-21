@@ -1,0 +1,32 @@
+label{
+    color:red;
+    background-color:yellow;
+}
+
+/*class-".",id-"#",element-name*/
+h1{
+    color:green;
+    background-color:blue;
+}
+.daniel{
+    color:orange;
+    background-color:red;
+}
+
+
+#ramana:hover{
+    color:yellow;
+    background-color:orange;
+}
+#d:hover{
+    color:purple;
+    background-color:green;  
+}
+#r:hover{
+    color:white;
+    background-color:pink;
+}
+.b:hover{
+    color:purple;
+    background-color:darkblue;
+}
